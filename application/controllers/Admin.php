@@ -12,4 +12,8 @@ class Admin extends CI_Controller {
 		
 	}
 	
+	public function hapus_data(){
+		
+	}
+	
 }
