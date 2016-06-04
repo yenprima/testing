@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Admin extends CI_Controller {
+class Tanamanku extends CI_Controller {
 
 	public function index()
 	{
@@ -9,7 +9,7 @@ class Admin extends CI_Controller {
 	}
 	
 	public function tambah_data(){
-		
+	//	$this- 
 	}
 	
 	public function hapus_data(){
